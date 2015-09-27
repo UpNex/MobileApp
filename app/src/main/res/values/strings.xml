@@ -40,4 +40,6 @@
     <string name="allergic_food">Allergic Food</string>
     <string name="serves">Serves</string>
     <string name="track_meal">Track your meal</string>
+    <string name="fitbit_coming_soon">fitbit coming soon</string>
+    <string name="add_to_cart_coming_soon">Add to cart is coming soon</string>
 </resources>

@@ -5,9 +5,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.hp.linkreadersdksample.util.ProductUtil;
 
@@ -80,7 +83,22 @@ public class ProductDetails extends AppCompatActivity {
                     }
                 }
 
+                ImageButton fitbitButton = (ImageButton) findViewById(R.id.fitbit);
+                ImageButton addToCartButton = (ImageButton) findViewById(R.id.add_to_cart);
 
+                fitbitButton.setOnClickListener(new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        Toast.makeText(getApplicationContext(), getResources().getString(R.string.fitbit_coming_soon), Toast.LENGTH_LONG).show();
+                    }
+                });
+
+                addToCartButton.setOnClickListener(new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        Toast.makeText(getApplicationContext(), getResources().getString(R.string.add_to_cart_coming_soon), Toast.LENGTH_LONG).show();
+                    }
+                });
                 /*for(String foodPreference: foodPreferences) {
                     //if (product.getProductType().equalsIgnoreCase(foodPreference)) {
                        if(!isAllergic){
