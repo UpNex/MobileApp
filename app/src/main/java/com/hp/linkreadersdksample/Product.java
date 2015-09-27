@@ -17,8 +17,25 @@ public class Product {
     private String vitamins;
     private String ingredients;
     private String productName;
+    private int imageResourceId;
 
+    private int serves;
 
+    public int getServes(){
+        return this.serves;
+    }
+
+    public void setServes(int serves){
+        this.serves = serves;
+    }
+
+    public int getImageResourceId(){
+        return this.imageResourceId;
+    }
+
+    private void setImageResourceId(int imageResourceId){
+        this.imageResourceId = imageResourceId;
+    }
     public String getProductName(){
         return productName;
     }
@@ -102,7 +119,7 @@ public class Product {
     }
 
     public Product(String productId, String productName, String productType, String calories, String fat, String cholestrol, String sugar,
-                 String protein,   String vitamins, String ingredients){
+                 String protein,   String vitamins, String ingredients, int imageResourceId, int serves){
         this.productId = productId;
         this.productName  = productName;
          this.productType = productType;
@@ -113,6 +130,9 @@ public class Product {
          this.protein = protein;
          this.vitamins = vitamins;
          this.ingredients = ingredients;
+        this.imageResourceId = imageResourceId;
+        this.serves = serves;
+
     }
     public Product(){
 

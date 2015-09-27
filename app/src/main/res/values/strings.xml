@@ -29,12 +29,15 @@
     <string name="protein">Protein</string>
     <string name="vitamins">Vitamins</string>
     <string name="fat">Fat</string>
-    <string name="suite">Suite</string>
+    <string name="suite">Good Choice</string>
     <string name="ingredients">Ingredients</string>
     <string name="user_required">User Name is required</string>
-    <string name="mushroom">mushroom</string>
-    <string name="nuts">nuts</string>
-    <string name="rice">rice</string>
-    <string name="wheat">wheat</string>
-    <string name="poultry">poultry</string>
+    <string name="mushroom">Mushroom</string>
+    <string name="nuts">Nuts</string>
+    <string name="rice">Rice</string>
+    <string name="wheat">Wheat</string>
+    <string name="poultry">Poultry</string>
+    <string name="allergic_food">Allergic Food</string>
+    <string name="serves">Serves</string>
+    <string name="track_meal">Track your meal</string>
 </resources>
