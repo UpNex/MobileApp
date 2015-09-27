@@ -44,7 +44,10 @@ public class SplashScreenActivity extends Activity {
         boolean shouldShow = PreferenceManager.
                 getDefaultSharedPreferences(this).getBoolean(SHOULD_SHOW_SPLASHSCREEN, true);
         if (!shouldShow) {
-            Intent intent = new Intent(this, MainActivity.class);
+            /*Intent intent = new Intent(this, MainActivity.class);
+            startActivity(intent);
+            finish();*/
+            Intent intent = new Intent(this,UserActivity.class);
             startActivity(intent);
             finish();
             overridePendingTransition(0, 0);

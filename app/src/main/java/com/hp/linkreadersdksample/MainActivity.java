@@ -21,6 +21,7 @@ import com.hp.linkreadersdk.EasyReadingCallback;
 import com.hp.linkreadersdk.EasyReadingFragment;
 import com.hp.linkreadersdk.ErrorCode;
 import com.hp.linkreadersdk.utils.Constants;
+import com.hp.linkreadersdksample.util.ProductUtil;
 
 public class MainActivity extends ActionBarActivity implements NetworkErrorDialogFragment.DialogListener
         , AuthenticationErrorDialogFragment.DialogListener {
@@ -68,8 +69,32 @@ public class MainActivity extends ActionBarActivity implements NetworkErrorDialo
                 }
             }, this);
         }
+
+        insertProductDetails();
     }
 
+    private void insertProductDetails(){
+        Product product1 = new Product( "product_1","Cheese Pizza (70 g)", "Veg", "272g","9.8g", "21mg", "3.8g",
+                "12g",   "A,B1,B2,B3,B5,B12,E,K", "pizza sauce,cheese,basil");
+        Product product2 = new Product( "product_2","Hamburger", "Non-Veg", "354g","136g", "56mg", "5g",
+                "20g",   "B12", "Beef, Cheese, Onion");
+        Product product3 = new Product( "product_3","Falafel", "Veg", "57g","3g", "90g", "2.8h",
+                "2g",   "A,B,C", "Beans, onions, scallions, Parsley, Garlic, Cumin, Coriander");
+        Product product4 = new Product( "product_4", "Chicken Tandoori", "Non-Veg", "227g","10g", "87mg", "0g",
+                "27g",   "K,C", "Yogurt, lemon juice, allspice, black pepper, cayenne pepper, cinnamon, cumin");
+        Product product5 = new Product( "product_5", "Wada-Pav", "Veg", "300g","250g", "70mg", "6g",
+                "5g",   "A,C", "Ginger, Chilly, Asafoetida, Nuts");
+        Product product6 = new Product( "product_6","Chicken Sandwich", "Non-Veg", "515g","29g", "60mg", "0g",
+                "24g",   "A,C,B6,B12,D", "potatoes, cream, onions, chicken, cheese");
+
+        ProductUtil.setProduct(product1);
+        ProductUtil.setProduct(product2);
+        ProductUtil.setProduct(product3);
+        ProductUtil.setProduct(product4);
+        ProductUtil.setProduct(product5);
+        ProductUtil.setProduct(product6);
+
+    }
     private void setAuthState(AuthState authorizing) {
         authState = authorizing;
         switch (authorizing) {

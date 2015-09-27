@@ -28,20 +28,40 @@
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
-
             </intent-filter>
         </activity>
         <activity
             android:name=".test"
             android:label="@string/title_activity_test" >
-            <intent-filter>
-                <category android:name="android.intent.category.DEFAULT"/>
-                <category android:name="android.intent.category.BROWSABLE"/>
+           <!-- <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
                 <action android:name="android.intent.action.VIEW" />
+
+                <data
+                    android:host="com.hp.linkreadersdksample"
+                    android:scheme="launch" />
+            </intent-filter>-->
+        </activity>
+        <activity
+            android:name=".ProductDetails"
+            android:label="@string/title_activity_product_details" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <action android:name="android.intent.action.VIEW" />
+
                 <data
                     android:host="com.hp.linkreadersdksample"
                     android:scheme="launch" />
             </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".UserActivity"
+            android:label="@string/title_activity_user_details" >
         </activity>
     </application>
 

@@ -2,172 +2,32 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\com.squareup.dagger\dagger-compiler\1.2.2\fa9b2f9ae597cedf2a66ef3e60662ff36bb60e57\dagger-compiler-1.2.2.jar"
+        jar="/Users/ramnivasindani/Documents/hackday/android/MobileApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/jars/libs/internal_impl-22.1.0.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="fa9b2f9ae597cedf2a66ef3e60662ff36bb60e57">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\dagger-compiler-1.2.2-50cb993ef9704a41d02362518bf6b698e02bc592.jar" />
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="/Users/ramnivasindani/Documents/hackday/android/MobileApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.0-47427981bdb5cad388f26826b95ad88fa1b46158.jar" />
     </item>
     <item
-        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.2.0\c0b52915a48fa91b1b94a28d4a2997bac5f524df\okio-1.2.0.jar"
+        jar="/Users/ramnivasindani/Documents/hackday/android/MobileApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\okio-1.2.0-2f19896e1c53e176d37d11f7ca1665830be33313.jar" />
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="/Users/ramnivasindani/Documents/hackday/android/MobileApp/app/build/intermediates/pre-dexed/debug/classes-ac76d4cd5f392bbb99c2c280b6500636769b1d08.jar" />
     </item>
     <item
-        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.7\5599707a3eaad13e889f691b3af78c8c03842195\joda-time-2.7.jar"
+        jar="/Users/ramnivasindani/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.0/support-annotations-22.1.0.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="5599707a3eaad13e889f691b3af78c8c03842195">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\joda-time-2.7-d2cb11871b87538b14ab92356fe110f2d0ed7176.jar" />
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="/Users/ramnivasindani/Documents/hackday/android/MobileApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.0-bb39fff1e831cabf81df3dadfb2b59011b210ee3.jar" />
     </item>
     <item
-        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.7.3\92568d7167ce1bf9eb1fd815b022d5a2c113547a\jsoup-1.7.3.jar"
+        jar="/Users/ramnivasindani/Documents/hackday/android/MobileApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="92568d7167ce1bf9eb1fd815b022d5a2c113547a">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\jsoup-1.7.3-bf4796384e1b52d8a9ff2690da2ac813703916fa.jar" />
-    </item>
-    <item
-        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\butterknife-6.1.0-bd7c429a32ed136966e67eb3c52fe341327295ef.jar" />
-    </item>
-    <item
-        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\15.0\ed727a8d9f247e2050281cb083f1c77b09dcb5cd\guava-15.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ed727a8d9f247e2050281cb083f1c77b09dcb5cd">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\guava-15.0-47ca7270e71385844e4c34dc994fed4f2af189ac.jar" />
-    </item>
-    <item
-        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\picasso-2.5.0-1e484b5271b585708114806f706c19151ab99be1.jar" />
-    </item>
-    <item
-        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.3.3\7d8c5d79cc99995e21e6f955857312d8409f02a1\jackson-core-2.3.3.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7d8c5d79cc99995e21e6f955857312d8409f02a1">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\jackson-core-2.3.3-3746073d9da3765de153553938394584ebf5a573.jar" />
-    </item>
-    <item
-        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\com.jakewharton.timber\timber\2.5.1\3baf6307dcdc2e35db9c2c616b16faa5fba4917c\timber-2.5.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="3baf6307dcdc2e35db9c2c616b16faa5fba4917c">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\timber-2.5.1-03c460eee921ffe4f1a483288060048d8ae969ad.jar" />
-    </item>
-    <item
-        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.2.0\cb20062e14c523637b7643295418097b48cccec2\okhttp-urlconnection-2.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="cb20062e14c523637b7643295418097b48cccec2">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-2.2.0-b7053518de72b1b4890caf7454c78c57cefb518c.jar" />
-    </item>
-    <item
-        jar="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-f6a5f63cb91d303bd69d58708a324d386f0c7ecb.jar" />
-    </item>
-    <item
-        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.5\7941cd2c2c8ec006800d75c35f8a9dacf892ab93\otto-1.3.5.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7941cd2c2c8ec006800d75c35f8a9dacf892ab93">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\otto-1.3.5-5f55059083d308334ebbc22c777fb874fc59c392.jar" />
-    </item>
-    <item
-        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\com.squareup.dagger\dagger\1.2.2\e8f912ee19ad84958510883ea191135276b091f8\dagger-1.2.2.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e8f912ee19ad84958510883ea191135276b091f8">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\dagger-1.2.2-ac2cfdaf468ae4ecdbdcc7592230114f4d343ff0.jar" />
-    </item>
-    <item
-        jar="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\classes-d40f7072a7fc95298849464ca4b609f157df74b1.jar" />
-    </item>
-    <item
-        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.2.0\959c454243581fdf730abfd4f4745441724bcf2c\okhttp-2.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\okhttp-2.2.0-ab8a1085be02fdb037d03096351366e64e5bc690.jar" />
-    </item>
-    <item
-        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\javax.inject-1-e6fff57c6fe1d1c2c94b5bcc85b4ccdd800763c9.jar" />
-    </item>
-    <item
-        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a681c044244d9fc375198588297a39ba78028423">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-9507afb7c8ab593664a88bfc39860174b7e97690.jar" />
-    </item>
-    <item
-        jar="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\classes-43bfc50b574f49ab8170c248cfca73f42afb7d7b.jar" />
-    </item>
-    <item
-        jar="C:\Users\Deep\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-66810224781e08f2060db093e0824c911da05157.jar" />
-    </item>
-    <item
-        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\com.googlecode.ez-vcard\ez-vcard\0.9.6\5ced3b1423487d3fdf7270715522326a941a9f1a\ez-vcard-0.9.6.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="5ced3b1423487d3fdf7270715522326a941a9f1a">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\ez-vcard-0.9.6-a7e0c8b0ab152eddad4da6738c4a9fd668125199.jar" />
-    </item>
-    <item
-        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.5.0\81241ff7078ef14f42ea2a8995fa09c096256e6b\javawriter-2.5.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="81241ff7078ef14f42ea2a8995fa09c096256e6b">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\javawriter-2.5.0-92e9794ccf3190449e35b9ebc45db79b150803c8.jar" />
-    </item>
-    <item
-        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\org.freemarker\freemarker\2.3.20\5ad6bea46b5af666d88c260c8acc6a03408723c8\freemarker-2.3.20.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="5ad6bea46b5af666d88c260c8acc6a03408723c8">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\freemarker-2.3.20-1cd1a3f1b44752f4a7c22b86d5c37e19995d74ca.jar" />
-    </item>
-    <item
-        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\com.michaelpardo\activeandroid\3.1.0-SNAPSHOT\4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08\activeandroid-3.1.0-SNAPSHOT.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\activeandroid-3.1.0-SNAPSHOT-3a67ad4c4bd989ed6a38300a5f4f0c6f91bdf1a8.jar" />
-    </item>
-    <item
-        jar="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\exploded-aar\linkreadersdk\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f1db76abc2a8c6930dea788a192c3be045ca9105">
-        <dex dex="I:\integrate hack\LinkReaderSDK_android_1.0.1\sample\app\build\intermediates\pre-dexed\debug\classes-1547de89dc51cce491539232bf1366c6164327bf.jar" />
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="/Users/ramnivasindani/Documents/hackday/android/MobileApp/app/build/intermediates/pre-dexed/debug/classes-fce8dbb942fc5fa990e2f4640faf47748ee047d0.jar" />
     </item>
 
 </items>
