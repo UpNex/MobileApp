@@ -15,5 +15,6 @@
     <string name="network_error_title">Network Error</string>
     <string name="auth_error">Auth Error</string>
     <string name="not_authorized">Not authorized to scan</string>
+    <string name="title_activity_test">test</string>
 
 </resources>
