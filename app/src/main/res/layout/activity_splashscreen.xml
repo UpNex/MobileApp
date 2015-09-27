@@ -1,0 +1,39 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.hp.linkreadersdksample.activity.SplashscreenActivity"
+    android:background="@color/light_primary_blue">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:layout_gravity="center"
+            android:contentDescription="@string/welcome_to_Link_by_HP"
+            android:src="@drawable/splash_screen_gears" />
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:id="@+id/sampleAppText"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:text="Sample App"
+            android:textSize="48sp"
+            android:layout_gravity="center"
+            android:textColor="@color/light_primary_white"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/splash_badge"
+            android:layout_marginTop="70dp"/>
+    </LinearLayout>
+</FrameLayout>
+
